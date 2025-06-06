@@ -1,4 +1,4 @@
 Hello GitHub
-PARAM1: aaa
+#PARAM1: aaa
 PARAM2: bbb
 PARAM3: ccc
